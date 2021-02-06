@@ -6,4 +6,5 @@ out
 *.iws
 
 
-git push -u origin master
+git push -u origin main
+git branch -M master
