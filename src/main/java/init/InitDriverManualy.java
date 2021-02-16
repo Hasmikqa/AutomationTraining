@@ -14,7 +14,7 @@ public class InitDriverManualy {
          driver.findElement(By.name("JobsFilter[key_word]")).sendKeys("C#");
          driver.findElement(By.id("btn_search_keyword")).click();
          driver.findElement(By.className("btn btn-primary mrgr0 radius_changes")).click();
-         driver.findElement((By.cssSelector()))
+
     }
 
 
